@@ -8,14 +8,17 @@
 - Python Fundamentals 
 - Bibliothèques Python pour l'Intelligence Artificielle
 
-# CHAPITRE 2 Machine Learning [Apprentissage Automatique]
-## 1.1 Qu'est-ce que Machine Learning?
-## 1.2 Définition de Machine Learning
-## 1.3 Différences entre l'IA, Machine Learning et Deep Learning 
-## 1.4 Exemples concrets du Machine Learning (par exemple, prediction de prix des immobilier) 
-## 1.5. Types de Machine Learning
-### 1.5.1 Apprentissage supervise
-### 1.5.2 Apprentissage non supervisé 
-### 1.5.3 Apprentissage par renforcement (juste une introduction)
-## 1.6. Introduction à l'apprentissage automatique sur AWS
+# CHAPITRE 2 Concepts clés sur l'apprentissage automatique
+## 2.1. Terminologies d'apprentissage automatique   
+- Features (Caractéristiques), Label (étiquettes) et Dataset (ensembles de données) 
+## 2.2 Types de données
+- Catégorielles, Numériques, Textuelles, Images, audio
+- Training set (Donneés d’entrainement), Validation set (Donneés de validation), Test set (Donneés de test) 
+## 2.3 Introduction aux algorithms
+- Qu'est-ce qu'un algorithme ?
+- Les algorithms de Machine Learning
+## 2.4 Example Pratique de la Régression linéaire simple
+## 2.5 Example Pratique de la Régression linéaire multiple
+## 2.6. Introduction à l'apprentissage automatique sur AWS
+
 
